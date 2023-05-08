@@ -1,0 +1,5 @@
+nav:
+ - docker
+ - k3s.md
+collapse: false
+
